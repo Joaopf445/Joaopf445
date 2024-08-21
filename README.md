@@ -18,9 +18,9 @@
 
 Aqui estão alguns dos meus projetos e repositórios que estou desenvolvendo:
 
-- **[Nome](https://github.com/paolaabrantes/SitePequenosGuerreiros)**: Pequeno site para ONG.
-- **[Nome do Projeto 2](link-projeto)**: Pequena descrição do projeto.
-- **[Nome do Projeto 3](link-projeto)**: Pequena descrição do projeto.
+- **[Pequenos Guerreiros](https://github.com/paolaabrantes/SitePequenosGuerreiros)**: Pequeno site para ONG.
+- **[Agendamento](https://github.com/guedespedro/agenda)**: Um algoritmo simples sobre agendamento
+
 
 ---
 
