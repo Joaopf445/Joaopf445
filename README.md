@@ -18,7 +18,7 @@
 
 Aqui estão alguns dos meus projetos e repositórios que estou desenvolvendo:
 
-- **[Nome do Projeto 1](link-projeto)**: Pequena descrição do projeto.
+- **[Nome](https://github.com/paolaabrantes/SitePequenosGuerreiros)**: Pequeno site para ONG.
 - **[Nome do Projeto 2](link-projeto)**: Pequena descrição do projeto.
 - **[Nome do Projeto 3](link-projeto)**: Pequena descrição do projeto.
 
