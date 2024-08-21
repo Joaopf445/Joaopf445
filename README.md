@@ -27,6 +27,8 @@ Aqui estão alguns dos meus projetos e repositórios que estou desenvolvendo:
 ### Habilidades
 
 - **Linguagens:** JavaScript, C, HTML, CSS
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 - **Ferramentas:** Git, VS Code, Linux
 - **Conceitos:** Lógica de programação, Algoritmos, Estruturas de dados
 
@@ -36,5 +38,3 @@ Aqui estão alguns dos meus projetos e repositórios que estou desenvolvendo:
  
 - [E-mail](Joaopf445@outlook.com)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
