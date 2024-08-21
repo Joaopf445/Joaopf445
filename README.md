@@ -35,3 +35,6 @@ Aqui estão alguns dos meus projetos e repositórios que estou desenvolvendo:
 ### Conecte-se comigo
  
 - [E-mail](Joaopf445@outlook.com)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
